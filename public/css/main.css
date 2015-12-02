@@ -4,7 +4,6 @@ html,body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden;
 }
 
 
@@ -266,7 +265,7 @@ hr.small {
     border-bottom-left-radius: 5px
 }
 footer {
-    padding: 50px 0 65px
+    padding: 100px;
 }
 footer .list-inline {
     margin: 0;
